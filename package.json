@@ -1,6 +1,6 @@
 {
   "name": "map-to-object",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "ES2015 Map to plain object.",
   "repository": {
     "url": "egoist/map-to-object",
