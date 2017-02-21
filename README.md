@@ -17,7 +17,6 @@ const map = new Map([
   ['foo', 123],
   ['bar', 'hello']
 ])
-map.set('foo', '123')
 
 mapToObj(map)
 //=> 
