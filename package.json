@@ -1,12 +1,12 @@
 {
-  "name": "map-to-object",
+  "name": "map-to-obj",
   "version": "0.1.0",
   "description": "ES2015 Map to plain object.",
   "repository": {
-    "url": "egoist/map-to-object",
+    "url": "egoist/map-to-obj",
     "type": "git"
   },
-  "main": "dist/map-to-object.common.js",
+  "main": "dist/map-to-obj.common.js",
   "files": [
     "dist"
   ],
